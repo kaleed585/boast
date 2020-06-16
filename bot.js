@@ -7,7 +7,7 @@ const {
 const client = new Discord.Client({
     disableEveryone: true
 })
-client.login(procces.env.TOKEN);
+client.login(procces.env.BOT_TOKEN);
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 
