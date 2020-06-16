@@ -20,17 +20,7 @@
     "pretty-ms": "^7.0.0",
     "sqlite": "^4.0.9",
     "sqlite3": "^4.2.0"
-  },
-  "engines": {
-    "node": "10.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
+ 
+
   ]
 }
